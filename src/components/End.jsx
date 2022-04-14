@@ -50,19 +50,6 @@ function End({ stopTimer }) {
           </Button>
         </Card.Body>
       </Card>
-      {/* <div className="card" style={{ width: "30rem" }}>
-        <div className="card-body text-center">
-          <p class="h5 card-title">
-            Congratulations!! You've completed the quiz.
-          </p>
-          <a
-            className="btn btn-primary btn-lg mt-3 w-100"
-            onClick={() => dispatch(toggleGameStarted())}
-          >
-            Back to Home
-          </a>
-        </div>
-      </div> */}
     </Container>
   );
 }
