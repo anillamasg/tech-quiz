@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tech-quiz/static/css/main.2b141a0f.css",
+    "main.js": "/tech-quiz/static/js/main.1a7ce769.js",
+    "index.html": "/tech-quiz/index.html",
+    "main.2b141a0f.css.map": "/tech-quiz/static/css/main.2b141a0f.css.map",
+    "main.1a7ce769.js.map": "/tech-quiz/static/js/main.1a7ce769.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b141a0f.css",
+    "static/js/main.1a7ce769.js"
+  ]
+}
